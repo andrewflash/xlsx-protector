@@ -86,6 +86,6 @@ This project is licensed under the MIT License.
 ---
 
 ## 🎯 Author
-- **Your Name**  
-- 📧 Contact: [your.email@example.com](mailto:your.email@example.com)  
-- 🌐 GitHub: [your-github-profile](https://github.com/your-github-profile)
+- **Andri Rahmadhani**  
+- 📧 Contact: [andrewflash@gmail.com](mailto:andrewflash@gmail.com)  
+- 🌐 GitHub: [andrewflash](https://github.com/andrewflash)
